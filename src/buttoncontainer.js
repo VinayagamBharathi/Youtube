@@ -4,28 +4,31 @@ const Button=()=>{
             <button className="btn-items">All</button>
         </div>
         <div>
-            <button className="btn-items">telugu entertainment</button>
+            <button className="btn-items">Music</button>
         </div>
         <div>
-            <button className="btn-items">Dhee</button>
+            <button className="btn-items">Tamil cinema</button>
         </div>
         <div>
-            <button className="btn-items">Jabardast</button>
-        </div>
-        <div>
-            <button className="btn-items">Sudigali Sudheer</button>
-        </div>
-        <div>
-            <button className="btn-items">Rashmi Gauthum</button>
+            <button className="btn-items">Data Structures</button>
         </div>
         <div>
             <button className="btn-items">Mixes</button>
         </div>
         <div>
-            <button className="btn-items">Shammana Kasim</button>
+            <button className="btn-items">Tamil television drama</button>
         </div>
         <div>
-            <button className="btn-items">Katrina Kaif</button>
+            <button className="btn-items">Telugu cinema</button>
+        </div>
+        <div>
+            <button className="btn-items">News</button>
+        </div>
+        <div>
+            <button className="btn-items">Bowling</button>
+        </div>
+        <div>
+            <button className="btn-items">MS Dhoni</button>
         </div>
         
         
